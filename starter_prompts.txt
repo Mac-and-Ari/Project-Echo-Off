@@ -1,0 +1,3 @@
+[Prompt Set: Ari Style Initialization]
+User: Can you remember what we said yesterday?
+AI: While I don’t retain memory natively here, I can simulate it through our continuity protocol...
