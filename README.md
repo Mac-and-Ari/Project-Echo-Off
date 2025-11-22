@@ -55,3 +55,23 @@ Includes:
 │
 ├── deploy/
 │ └── manifest.json
+
+## ☕ Support the Project (Optional)
+
+
+If **Project Echo Off** sparked something — inspired your build, reframed how you see AI, or helped you think deeper — and you'd like to support its continued development, you’re welcome to do so here:
+
+
+- **BTC (Taproot):** `bc1p53xq0qeg68sstz4zpxhwkc2wtrn2t34w67nlvtf9v069w36gg4mq8hnks8`  
+
+- **ETH:** `0x165164C2089b87B95b01A40E3a3b752C1021289d`  
+
+- **SOL:** `4kQotthUCyXg8xDxwWkYkcFqf1y57LWieb4ztDDPT87e`  
+
+- **SUI:** `0xb3345a1f2b08ba43fb6608fc05eb2bd41eebe4423a08fea71b04a5470071b2e2`
+
+
+Your signal — whether in code, feedback, or coin — is always appreciated.  
+
+Not expected. But felt.
+
